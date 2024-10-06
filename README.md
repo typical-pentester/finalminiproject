@@ -78,9 +78,9 @@ Environment Variables:
 
 Create a .env file in the root directory and add:
 
-MONGO_URI=your-mongodb-connection-string
-JWT_SECRET=your-secret-key
-STRIPE_SECRET_KEY=your-stripe-secret-key
+    MONGO_URI=your-mongodb-connection-string
+    JWT_SECRET=your-secret-key
+    STRIPE_SECRET_KEY=your-stripe-secret-key
 
 📈 Future Enhancements
 
