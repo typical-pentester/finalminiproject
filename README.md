@@ -1,4 +1,3 @@
-MERN Marketplace
 📜 Project Overview
 
 The MERN Marketplace is a full-stack e-commerce platform designed to connect buyers and sellers in a seamless online shopping experience. Built using the powerful MERN (MongoDB, Express, React, Node.js) stack, the project provides a dynamic, feature-rich platform for listing products, managing user profiles, and securely processing transactions.
