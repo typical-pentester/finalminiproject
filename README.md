@@ -105,9 +105,9 @@ This project is licensed under the MIT License.
 👨‍💻 Author
 
 Developed by Batch-9 team for the final year mini project.
-Roles:
-Sofiya - Researcher
-Muzammil - Project Manager & Developer
-Shareef - Developer & Tester
-Sumaja - Design & UI
-Ujwal - Testing & QA
+Roles:    
+Sofiya - Researcher    
+Muzammil - Project Manager & Developer    
+Shareef - Developer & Tester    
+Sumaja - Design & UI    
+Ujwal - Testing & QA    
